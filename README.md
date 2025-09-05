@@ -1,12 +1,3 @@
-<!doctype html>
-<html lang="fr">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>TP — Injection de dépendances (Symfony)</title>
-</head>
-<body>
-  <main>
     <h1>TP : Injection de dépendances en Symfony</h1>
 
     <p>Le but de ce TP est de se familiariser avec l’injection de dépendances en Symfony. Pour cela, nous allons concevoir un système qui permet de traiter les notifications (WhatsApp, SMS et Email).</p>
@@ -73,6 +64,4 @@
 
       <p>Bon courage.</p>
     </section>
-  </main>
-</body>
-</html>
+
