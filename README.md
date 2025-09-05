@@ -2,7 +2,6 @@
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<title>Injection de Dépendance Symfony</title>
 </head>
 <body>
 <h1>Initialisation</h1>
