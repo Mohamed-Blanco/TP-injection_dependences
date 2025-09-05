@@ -63,9 +63,9 @@
 <ul>
     <li><strong>Solution 1 :</strong> Spécifier la classe dans <strong>/Config/services.yaml</strong> et avoir le code du Controller correspondant.</li>
     <img width="959" height="472" alt="image" src="https://github.com/user-attachments/assets/c937269a-401b-40af-b4b8-c0d23c13e050" />
-![Uploading image.png…]()
 
 <li><strong>Solution 2 :</strong> Utiliser l'annotation <strong>@autowire</strong> sur les paramètres du constructeur pour spécifier l’implémentation sans modifier le fichier <strong>services.yaml</strong>.</li>
+<img width="956" height="472" alt="image" src="https://github.com/user-attachments/assets/a1063e7f-a698-4909-9736-3ea7f8b1a5f8" />
 
 </ul>
 
